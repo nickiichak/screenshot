@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cbox">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <InheritanceLine Type="control" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="1.312" />
+        <Point X="4.75" Y="1.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAwAAAAAAAAAAAAAIEAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>cbox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="control">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIACAAAAABAGAAAAAAAAAAIAAgAQIAAAAAEAAAAA=</HashCode>
+      <FileName>control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gdiscreen">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAA=</HashCode>
+      <FileName>gdiscreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="menubox">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GowAIAGAAAiAAMUABABAAEADABEBQSEASmAAAYAAFAA=</HashCode>
+      <FileName>menubox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="textbox">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="control" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="0.812" />
+        <Point X="6.5" Y="0.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAACAAAAAAAAAKACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>textbox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
